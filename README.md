@@ -8,7 +8,7 @@ BACKEND DEPLOYMENT (Railway)
 1. Create a Railway project and deploy the contents of the backend/ folder.
 2. Use Node.js 18.18+ (Node 20 LTS recommended).
 3. Add these Railway Variables:
-   SUPUN_API_KEY       = your NEW Supun API key
+   SUPUN_API_KEY       = your NEW API key
    PROXY_SECRET        = a long random secret (keep it private and stable)
    PROXY_DOWNLOADS     = true
    FRONTEND_ORIGIN     = https://your-site.github.io
